@@ -26,6 +26,10 @@
     <td>Desenvolvedor</td>
   </tr>
   <tr>
+    <td>João Bosco Jr</td>
+    <td>analista de software jr</td>
+  </tr>
+  <tr>
     <td>Júlio Henrique Rodrigues</td>
     <td>Coordenador de Sustentação e Mobile</td>
   </tr>
