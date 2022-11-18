@@ -26,7 +26,7 @@
     <td>Desenvolvedor</td>
   </tr>
   <tr>
-    <th>Júlio Henrique Rodrigues</th>
-    <th>Coordenador de Sustentação e Mobile</th>
+    <td>Júlio Henrique Rodrigues</td>
+    <td>Coordenador de Sustentação e Mobile</td>
   </tr>
 </table>
